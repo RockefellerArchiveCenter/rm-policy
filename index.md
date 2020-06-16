@@ -115,6 +115,17 @@ A communication platform that allows departments to chat, share files, set up me
 integrated with other Microsoft systems such as Outlook and Word. At the RAC, each department has its own Team within the 
 larger system.
 
+## Related Policies
+The Records Management Policy is meant to work in conjunction with other RAC policies to ensure proper records creation, maintenance, and preservation throughout the record lifecycle for both RAC records as well as the records of its donor and depositor institutions and individuals. Related policies include:
+
+* __[Collection Policy](https://docs.rockarch.org/collection-policy/):__
+A collection policy determines the records an archive seeks to preserve and make available for research use by setting parameters around what the archive will and, just as importantly, will not collect. 
+
+* __[Reappraisal Policy](https://docs.rockarch.org/reappraisal-policy/):__
+An institution may need to reassess its records occasionally if there is a change to its mission and/or collection policy. Reappraisal is the process of reviewing materials in an archive to reassess their retention value and to determine if they no longer merit long term preservation and should be deaccessioned. The reappraisal policy sets forth the systematic and transparent process that the RAC uses to ensure consistency and accountability in the reappraisal process.
+
+* __[Deaccession Policy](https://docs.rockarch.org/deaccession-policy/):__
+Material that has been reappraised and deemed appropriate for removal from the RAC collections undergoes the process of deaccessioning. The Deaccession Policy sets forth the protocol for disposing of collections or portions of collections that will not remain at the RAC, whether the material is to be transferred, returned to the donor, or destroyed.
 
 
 
