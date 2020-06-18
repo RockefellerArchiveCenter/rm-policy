@@ -127,6 +127,105 @@ An institution may need to reassess its records occasionally if there is a chang
 * __[Deaccession Policy](https://docs.rockarch.org/deaccession-policy/):__
 Material that has been reappraised and deemed appropriate for removal from the RAC collections undergoes the process of deaccessioning. The Deaccession Policy sets forth the protocol for disposing of collections or portions of collections that will not remain at the RAC, whether the material is to be transferred, returned to the donor, or destroyed.
 
+* __Procedures for the Destruction of Archival Holdings :__
+Records that are not for permanent retention as well as select non-archival materials from archival collections that are destroyed by the RAC must follow the procedures set out in this policy in order to be shredded. The policy provides guidance to RAC staff regarding the procedures they must follow for various types of records to be destroyed.
+
+* __Privacy Policy :__
+The RAC values the protection of user privacy and is committed to creating transparency with its users and compliance with international GDPR standards regarding what personal information is being saved by the RAC and why. The Privacy Policy outlines the RAC’s approach to user information and compliance. [Note: Privacy Policy is currently under development]
+
+
+
+## Roles and Responsibilities
+
+**The Archive Center** is responsible for:
+
+* Maintaining an efficient, standardized, and transparent records management practice across the institution. 
+
+* Managing its records in accordance with current state and federal laws, the RAC Records Retention Schedule, and related policies.
+
+* Maintaining records storage conditions and systems that ensure the short and long-term maintenance of its records and that mitigate against possible, loss, theft, misuse, or accidental release of the records.
+
+
+
+**The Archive Center’s President** is responsible for:
+
+* Being the administrative sponsor of the records management program.
+
+* Monitoring and ensuring overall organizational compliance with the program.
+
+* Providing the records management program with the necessary resources to accomplish its mission.
+
+
+
+**The Archive Center’s Leadership Team** is responsible for:
+
+* Daily ownership of the Records Management Policy for their respective functional areas.
+
+* Ensuring that their respective staff are aware of their recordkeeping responsibilities.
+
+* Coordinating with the Records Manager and Collections Management Team on the transfer of appropriate records from their area, when applicable.
+
+* Allocating the necessary resources (people and time) to ensure compliance with the program.
+
+* Nominating team records liaisons who will undertake regular training and be a team’s primary contact for the records management program.
+
+
+**The Records Manager** is responsible for:
+
+* The conduct of the day-to-day records management program.
+
+* Monitoring compliance with the Records Management Policy and Records Retention Schedule.
+
+* Making recommendations to the RAC’s President and Leadership for improvements or modifications of practices.
+
+* Coordinating with the Collections Management Team to ensure the proper transfer and disposal of RAC records in accordance with the Records Retention Schedule and related policies.
+
+* Revising and maintaining the Records Retention Schedule based on current law and best practice.
+
+* Coordinating records management training for staff.
+
+* Assisting Archive Center staff on the management of their records.
+
+
+**The Team Records Liaison** is responsible for:
+
+* Collaborating with the Records Manager on the day-to-day compliance with the records management program.
+
+* Informing the Records Manager of any areas of compliance difficulty and make recommendations accordingly.
+
+* Serving as the point person for their team for records management-related questions and compliance issues.
+
+
+
+**The Archive Center staff** is responsible for:
+
+* Following the Archive Center’s Records Management Policy and Records Retention Schedule to manage active and inactive records.
+
+* Appropriately transferring or disposing of records once the retention period has come to an end.
+
+
+
+## Training and Maintenance
+Staff training is critical to the success of the Records Management Program established by this policy. The RAC’s Records Manager and Team Records Liaisons will coordinate with the RAC President and Leadership to design and implement a training program that will ensure that all staff members fully understand this policy and are adequately trained in proper records management procedures. 
+
+
+## Review
+It is expected that modifications will need to be made to the components of the records management program to account for changes in legal and operational requirements for records management at the RAC. The RAC is committed to periodically reviewing all aspects of the records management program to ensure that its policies continue to align with current laws, regulations, and best practices and to ensuring that the staff is able to comply with the program.
+
+
+## Contacts
+If staff have questions or concerns regarding aspects of the Records Management Policy and Records Retention Schedule, they should contact either their Team Records Liaison or the Records Manager.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
