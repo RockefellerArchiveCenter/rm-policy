@@ -130,8 +130,8 @@ Material that has been reappraised and deemed appropriate for removal from the R
 * __Procedures for the Destruction of Archival Holdings :__
 Records that are not for permanent retention as well as select non-archival materials from archival collections that are destroyed by the RAC must follow the procedures set out in this policy in order to be shredded. The policy provides guidance to RAC staff regarding the procedures they must follow for various types of records to be destroyed.
 
-* __Privacy Policy :__
-The RAC values the protection of user privacy and is committed to creating transparency with its users and compliance with international GDPR standards regarding what personal information is being saved by the RAC and why. The Privacy Policy outlines the RAC’s approach to user information and compliance. [Note: Privacy Policy is currently under development]
+* __[Privacy Policy](https://rockarch.org/about-us/privacy-policy/):__
+The RAC values the protection of user privacy and is committed to creating transparency with its users and compliance with international GDPR standards regarding what personal information is being saved by the RAC and why. The Privacy Policy outlines the RAC’s approach to user information and compliance. 
 
 
 
