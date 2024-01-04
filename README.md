@@ -4,7 +4,7 @@ The Rockefeller Archive Center's policy on records management.
 
 ## Accessing the Policy
 
-The content is accessible on [docs.rockarch.org](docs.rockarch.org), the central platform for the documentation for the     Rockefeller Archive Center.
+The content is accessible on [docs.rockarch.org](https://docs.rockarch.org), the central platform for the documentation for the     Rockefeller Archive Center.
 
 ## License
 
